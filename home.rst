@@ -3,6 +3,8 @@ Home
 
 .. image:: https://www.bil-jac.com/media/um3cpq3o/istock-803855922-1.jpg?anchor=center&mode=crop&width=1024&height=512
    :width: 100%
+.. image:: https://th.bing.com/th/id/OIP.NagVzbJBihBmkm2m9F6q0gHaE8?pid=ImgDet&rs=1
+   :width: 100%
 
 Dogs play an important role in many people’s lives, regardless of whether they are loving best friends for life, assistance dogs, or military dogs. No matter what our dog’s roles are, we know they contribute so much to make our lives happier, healthier, and safer every day. This month, we recognize K9 Veterans Day to honor the service and sacrifice of American military and working dogs.
 
